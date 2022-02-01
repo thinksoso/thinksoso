@@ -12,7 +12,7 @@
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://raw.githubusercontent.com/thinksoso/thinksoso/master/1cat.gif" width="200px" height="194px" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thinksoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" width="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thinksoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" width="400px"/>
 </a>
 
 <!--
